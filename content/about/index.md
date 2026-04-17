@@ -8,7 +8,7 @@ showTableOfContents: false
 showPagination: false
 ---
 
-## Hey, I'm Todd.
+## Hey, I'm just a random guy.
 
 I'm a developer, a dad, a gamer, a cook, and — like most guys — someone who's been through some stuff but doesn't always know how to talk about it.
 
@@ -33,4 +33,4 @@ I'm also on YouTube at [@ARandomGuysThoughts](https://youtube.com/@ARandomGuysTh
 
 If anything I write resonates with you, or if you just want to say hey, I'd love to hear from you.
 
-*— Todd*
+*— ARGT*

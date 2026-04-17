@@ -18,7 +18,7 @@ So here I am. Doing it anyway.
 
 ## The Short Version
 
-I'm Todd. I'm a developer, a dad, a gamer, a cook, and a guy who's been through some stuff. I live in Nebraska. I smoke brisket. I play D&D with a group of dads. I coach esports. I watch too much sports. I'm deeply, almost annoyingly, average — and I think that's exactly why this blog needs to exist.
+I'm a random guy. I'm a developer, a dad, a gamer, a cook, and a guy who's been through some stuff. I live in Nebraska. I smoke brisket. I play D&D with a group of dads. I coach esports. I watch too much sports. I'm deeply, almost annoyingly, average — and I think that's exactly why this blog needs to exist.
 
 Because "average" guys don't talk about the hard things. We don't talk about grief, about depression, about the moments where you're sitting in your car in the driveway for an extra five minutes because you need to get your head right before you walk inside. We don't talk about how communication in relationships is something you have to actually learn and practice. We don't talk about the assumptions we make — about ourselves, about the people around us — that quietly wreck things if we let them.
 
@@ -48,4 +48,4 @@ So I'm saying them.
 
 Welcome. Stick around if you want. It's going to be a weird ride.
 
-*— Todd*
+*— ARGT*

@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\doane\\Personal\\arandomguysthoughts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\nerdy-stuff\\index.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\posts\\nerdy-stuff\\index.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\nerdy-stuff\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\posts\\nerdy-stuff\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\index.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\posts\\index.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\posts\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\culinary-delights\\index.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\posts\\culinary-delights\\index.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\culinary-delights\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\posts\\culinary-delights\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\public\\index.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\index.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\public\\index.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\index.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\public\\contact\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\contact\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\public\\categories\\things-we-dont-talk-about\\index.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\categories\\things-we-dont-talk-about\\index.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\public\\categories\\things-we-dont-talk-about\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\categories\\things-we-dont-talk-about\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\public\\categories\\index.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\categories\\index.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\public\\categories\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\categories\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\public\\about\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\about\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\public\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\content\\posts\\things-we-dont-talk-about\\why-im-doing-this\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\posts\\things-we-dont-talk-about\\why-im-doing-this\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\content\\about\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\about\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\config\\_default\\params.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\_default\\params.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\doane\\Personal\\arandomguysthoughts\\config\\_default\\languages.en.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\_default\\languages.en.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.xml",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\nerdy-stuff\\index.xml",
+              "RelativeDocumentMoniker": "public\\posts\\nerdy-stuff\\index.xml",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\nerdy-stuff\\index.xml",
+              "RelativeToolTip": "public\\posts\\nerdy-stuff\\index.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-17T06:37:40.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\nerdy-stuff\\index.html",
+              "RelativeDocumentMoniker": "public\\posts\\nerdy-stuff\\index.html",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\nerdy-stuff\\index.html",
+              "RelativeToolTip": "public\\posts\\nerdy-stuff\\index.html",
+              "ViewState": "AgIAABoAAAAAAAAAAAAhwCUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-17T06:37:33.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.xml",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\index.xml",
+              "RelativeDocumentMoniker": "public\\posts\\index.xml",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\index.xml",
+              "RelativeToolTip": "public\\posts\\index.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-17T06:37:29.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\index.html",
+              "RelativeDocumentMoniker": "public\\posts\\index.html",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\index.html",
+              "RelativeToolTip": "public\\posts\\index.html",
+              "ViewState": "AgIAADMGAAAAAAAAAAAhwD4GAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-17T06:37:21.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.xml",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\culinary-delights\\index.xml",
+              "RelativeDocumentMoniker": "public\\posts\\culinary-delights\\index.xml",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\culinary-delights\\index.xml",
+              "RelativeToolTip": "public\\posts\\culinary-delights\\index.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-17T06:37:16.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\culinary-delights\\index.html",
+              "RelativeDocumentMoniker": "public\\posts\\culinary-delights\\index.html",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\public\\posts\\culinary-delights\\index.html",
+              "RelativeToolTip": "public\\posts\\culinary-delights\\index.html",
+              "ViewState": "AgIAAMMCAAAAAAAAAAAhwM4CAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-17T06:37:06.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.xml",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\public\\index.xml",
+              "RelativeDocumentMoniker": "public\\index.xml",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\public\\index.xml",
+              "RelativeToolTip": "public\\index.xml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAhwBsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-17T06:36:55.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.json",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\public\\index.json",
+              "RelativeDocumentMoniker": "public\\index.json",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\public\\index.json",
+              "RelativeToolTip": "public\\index.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZFQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T06:35:40.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\public\\index.html",
+              "RelativeDocumentMoniker": "public\\index.html",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\public\\index.html",
+              "RelativeToolTip": "public\\index.html",
+              "ViewState": "AgIAANoDAAAAAAAAAAAhwOUDAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-17T06:35:24.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\public\\contact\\index.html",
+              "RelativeDocumentMoniker": "public\\contact\\index.html",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\public\\contact\\index.html",
+              "RelativeToolTip": "public\\contact\\index.html",
+              "ViewState": "AgIAAF4DAAAAAAAAAAAhwGkDAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-17T06:35:13.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.xml",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\public\\categories\\things-we-dont-talk-about\\index.xml",
+              "RelativeDocumentMoniker": "public\\categories\\things-we-dont-talk-about\\index.xml",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\public\\categories\\things-we-dont-talk-about\\index.xml",
+              "RelativeToolTip": "public\\categories\\things-we-dont-talk-about\\index.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-17T06:35:09.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\public\\categories\\things-we-dont-talk-about\\index.html",
+              "RelativeDocumentMoniker": "public\\categories\\things-we-dont-talk-about\\index.html",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\public\\categories\\things-we-dont-talk-about\\index.html",
+              "RelativeToolTip": "public\\categories\\things-we-dont-talk-about\\index.html",
+              "ViewState": "AgIAALsDAAAAAAAAAAAhwMYDAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-17T06:34:58.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.xml",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\public\\categories\\index.xml",
+              "RelativeDocumentMoniker": "public\\categories\\index.xml",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\public\\categories\\index.xml",
+              "RelativeToolTip": "public\\categories\\index.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-17T06:34:52.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\public\\categories\\index.html",
+              "RelativeDocumentMoniker": "public\\categories\\index.html",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\public\\categories\\index.html",
+              "RelativeToolTip": "public\\categories\\index.html",
+              "ViewState": "AgIAAL4CAAAAAAAAAAAhwMkCAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-17T06:34:37.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\public\\about\\index.html",
+              "RelativeDocumentMoniker": "public\\about\\index.html",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\public\\about\\index.html",
+              "RelativeToolTip": "public\\about\\index.html",
+              "ViewState": "AgIAAHMDAAAAAAAAAAAhwH4DAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-17T06:33:26.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "404.html",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\public\\404.html",
+              "RelativeDocumentMoniker": "public\\404.html",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\public\\404.html",
+              "RelativeToolTip": "public\\404.html",
+              "ViewState": "AgIAAIUCAAAAAAAAAAAhwJACAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-17T06:33:05.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "index.md",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\content\\posts\\things-we-dont-talk-about\\why-im-doing-this\\index.md",
+              "RelativeDocumentMoniker": "content\\posts\\things-we-dont-talk-about\\why-im-doing-this\\index.md",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\content\\posts\\things-we-dont-talk-about\\why-im-doing-this\\index.md",
+              "RelativeToolTip": "content\\posts\\things-we-dont-talk-about\\why-im-doing-this\\index.md",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAewBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-17T06:32:49.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.md",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\content\\about\\index.md",
+              "RelativeDocumentMoniker": "content\\about\\index.md",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\content\\about\\index.md",
+              "RelativeToolTip": "content\\about\\index.md",
+              "ViewState": "AgIAABkAAAAAAAAAAAAewCMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-17T06:32:32.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "params.toml",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\config\\_default\\params.toml",
+              "RelativeDocumentMoniker": "config\\_default\\params.toml",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\config\\_default\\params.toml",
+              "RelativeToolTip": "config\\_default\\params.toml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAhwEwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-17T06:32:28.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "languages.en.toml",
+              "DocumentMoniker": "C:\\doane\\Personal\\arandomguysthoughts\\config\\_default\\languages.en.toml",
+              "RelativeDocumentMoniker": "config\\_default\\languages.en.toml",
+              "ToolTip": "C:\\doane\\Personal\\arandomguysthoughts\\config\\_default\\languages.en.toml",
+              "RelativeToolTip": "config\\_default\\languages.en.toml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-17T06:32:16.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

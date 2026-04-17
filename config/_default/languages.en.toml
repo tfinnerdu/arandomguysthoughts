@@ -1,5 +1,6 @@
 languageName = "English"
 isoCode = "en"
+locale = "en-US"
 weight = 1
 title = "A Random Guy's Thoughts"
 description = "Life, loss, laughs, and lessons from a regular dude. Mental health, cooking, gaming, sports, and whatever else crosses my mind."

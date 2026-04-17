@@ -1,0 +1,86 @@
+# -- Theme Appearance --
+colorScheme = "ocean"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+enableSearch = true
+enableCodeCopy = true
+fingerprintAlgorithm = "sha256"
+
+# -- Site Images --
+# Place your logo in assets/img/logo.png
+# logo = "img/logo.png"
+# secondaryLogo = "img/logo.png"
+
+# -- Global --
+[header]
+  layout = "basic"
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile"
+  homepageImage = "img/logo.png"
+  showRecent = true
+  showRecentItems = 6
+  showMoreLink = true
+  showMoreLinkDest = "/posts"
+  cardView = true
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = true
+
+[article]
+  showDate = true
+  showViews = false
+  showLikes = false
+  showDateUpdated = false
+  showAuthor = true
+  showHero = true
+  heroStyle = "big"
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = true
+  showRelatedContent = true
+  relatedContentLimit = 3
+  showTaxonomies = true
+  showAuthorsBadges = false
+  showWordCount = false
+  showSummary = true
+
+[list]
+  showHero = false
+  heroStyle = "background"
+  showBreadcrumbs = false
+  showSummary = true
+  showViews = false
+  showLikes = false
+  showTableOfContents = false
+  showCards = true
+  groupByYear = false
+
+[taxonomy]
+  showTermCount = true
+
+[fathomAnalytics]
+  # site = "ABC12345"  # Add your Fathom site ID if you use analytics
+
+[author]
+  name = "Todd"
+  image = "img/logo.png"
+  headline = "Just a guy with thoughts."
+  bio = "Dad. Developer. Gamer. Cook. Thinker. Writing about life from the perspective of a regular dude — the good, the hard, and everything in between."
+  links = [
+    { youtube = "https://youtube.com/@ARandomGuysThoughts" },
+    # { twitter = "https://twitter.com/yourhandle" },
+    # { github = "https://github.com/yourhandle" },
+    # { email = "mailto:you@arandomguysthoughts.com" },
+  ]

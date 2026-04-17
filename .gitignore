@@ -1,0 +1,17 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/.hugo_build.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Hugo module cache
+/go.sum
